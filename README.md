@@ -23,7 +23,6 @@ The pandas development team. pandas-dev/pandas: Pandas, February 2020.
 
 Virtanen, P.,  Gommers, R., Oliphant, T.E.,  et al., 2020, Nature Methods, 17(3), 261
 
-Wes McKinney.  Data Structures for Statistical Computing in Python.  InSt\'efan  van  der  Walt and  Jarrod  Millman,  editors, Proceedings of the 9th Python in 
-
+Wes McKinney.  Data Structures for Statistical Computing in Python.  Stéfan  van  der  Walt and  Jarrod  Millman,  editors, Proceedings of the 9th Python in 
   Science Conference,  pages 56 – 61, 2010.
 
