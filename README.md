@@ -1,7 +1,9 @@
-# MovingUniverseLabHOKITutorial
+# Moving Universe Lab HOKI Tutorial
 Here, I present my summer 2020 tutorial for BPASS (Binary Populations and Spectral Synthesis data package) v.2.2.1 (Stanway & Eldridge 2018) using the HOKI python package (Stevance et. al 2019).
 
 In this tutorial, I try to examine graphically the features of Color-Magnitude Diagrams, Hertzprung-Russel diagrams, spectra, rate of change remnant mass over time by type, and frequencies of particular transient events over time.
+
+This tutorial is intended for use within the Moving Universe Lab; however, please feel free to download HOKI, BPASS v.2.2, and play with the code.
 
 # Citations For HOKI and Dependencies
 
@@ -21,5 +23,7 @@ The pandas development team. pandas-dev/pandas: Pandas, February 2020.
 
 Virtanen, P.,  Gommers, R., Oliphant, T.E.,  et al., 2020, Nature Methods, 17(3), 261
 
-Wes McKinney.  Data Structures for Statistical Computing in Python.  InSt ́efan  van  der  Walt and  Jarrod  Millman,  editors, Proceedings of the 9thPython in Science Conference,  pages 56 – 61, 2010.
+Wes McKinney.  Data Structures for Statistical Computing in Python.  InSt\'efan  van  der  Walt and  Jarrod  Millman,  editors, Proceedings of the 9th Python in 
+
+  Science Conference,  pages 56 – 61, 2010.
 
